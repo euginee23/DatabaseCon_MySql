@@ -1,7 +1,7 @@
 API routes
 
 #Retrieve
-localhost:3000/api/Students/#id_of_student
+http://localhost:3000/api/Students/#id_of_student
 
 #Register
 http://localhost:3000/api/Users/register/
